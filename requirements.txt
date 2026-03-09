@@ -1,7 +1,8 @@
 streamlit
-tensorflow
+tensorflow==2.15.0
 numpy
 matplotlib
 scipy
 scikit-learn
 firebase-admin
+
